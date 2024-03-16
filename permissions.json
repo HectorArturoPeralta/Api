@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "comprayventasautomovil",
+  "private_key_id": "83d7fb26d21fe39107f57c769700fe4331ec74d6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCyrkXYwSoWuTvx\nMvTRfwGx50hOaG+Opo0NLzEoHkoTqCAk/8Pi7RHOpnU8KhJCrNSoh9LGa50eOxaw\nSgFCeJ64+0/GfAC1ufJE9ViTTUTXKhUTqhszaioi60Lw7iT2ifWxuJ/CpqOjUIku\nfq6N4Ve045FZt3podHQjfbOswVdUmV14E4I8k/SkMi/c6waOBli93BhSDQvQQZ3J\ngDG5JIY2ZeaET18D71PMNtEwG423yaZnPpv9F4nTKQKD3QTqxiPjX6vNDd+5XwAY\nJRtjvlRbyQ8TbxwPikBaPzhhV2dzxMePgWAp66auMgB7e+IWPVIP519wS/e3jwLI\npzXRz9KHAgMBAAECggEAAIlbDI7TYWTi+4xYBEPPTASy+WKVaFTQxwFca6gr2pqo\nzMSmGTci5UxH3W7Q7xOcWzmjjS4efuk//X8ew7dRfiS6RKU9sS3OPspEuJfCjTaj\ncq1bgd+cdxN3Xk4M1wmZzYbyOfrjov+97WMWofVyqzkzbRKQaqOCoaf1tstP1V9L\nBfH4GlGFasatiiOl3eDN0hSWjaTry1sBaHIKZ30d1L4U3C+JuFxv3HJ450FjkInO\nNyQbLy1M3gVJWCcJmvP+I+OUP0meSC6bjs/kdhsYspor1xwP56x3v91JDHsdXqSs\n3+PePXKMVawOzP+gdYWwIDfBqJ5HJeJtPYsSOX07NQKBgQDlEAgXBrgFlvb8iPCk\nVI1+SkuNlWfiooOJ31cGpdCm0O0UAjehv3OSBB0oDBaZktGUoYYt4XY1CGOW1qeI\nFVxcl9BAq6GT1QFaNGuOSOza1mf8waZwJ5xBu9LBCwCLKIBtLpnMuq4TR2aVrxi3\n1GQHF8vxr7HPwUaX9j044nmpkwKBgQDHsXyVMglj2eu4gWPx0KWTehCZX7iyNHyR\n+d/i+bzh1W8Dqo9C12zxHEQqT55GJapoqa+QT2KnPWnVbDwOshO5TasEY+VcN0fV\nz2W4gEpglEnamlUiomoL+wdUjBZIYNcQLZ1cY35UIWix3+Vi4AAQazia0JXQKSbW\ngO5Ykux7vQKBgQDNV0fJTI6fBCw5SpFe3yVQd02viKXuNv1wFTSwkuivAk/lRe+V\nIkl6NhHlGqEP3tveP8ZHTvxmojSUvazFg1Ce+MEJmFJqceKaeK+Kh7k8nEPwA7Eu\njXO4QaW2xCQim5Y1Sjc5nof6ZGGEAclI0i8xZJXA/V2K/ppIE8fiPLQP3QKBgD2A\nVDY+6tVt0ENK1lUrRVNeTK5v5Jo9v//VTTbCY4HKEh628NhNMKgxZG0DiGNiRlFl\nsURorqGDMI0igHymK5zuZrU7bvAvtlgLP/DK0h1cjkJdNcss6iw2a9OGMXapHJNG\n+SfzHH0crPnbUvJYuqxT2WMUyo8JnYSCwOVWmq6hAoGBAMB3lnSkqK5gSNDGUmEW\nhGSJwW54LzWpfi352WXsjqu44iGufrP7oEr46YnGGezavM5qvpRHOCGPznbQLLYk\npE0uoCVLFi7MFFxe8Vdi9io2hht25Jwk9+L7jU8OqvhRG5SEt3YAJSiXGsYHXXSm\nEBwBTsRDhHdVEC6IP09tbpUK\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-2zif6@comprayventasautomovil.iam.gserviceaccount.com",
+  "client_id": "103629934694561182409",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-2zif6%40comprayventasautomovil.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
